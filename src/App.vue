@@ -4,4 +4,8 @@
   <Router-View />
 </template>
 
-<style></style>
+<style>
+body {
+  padding: 0;
+}
+</style>
